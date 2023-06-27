@@ -1,0 +1,22 @@
+.first-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}
+
+.second-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.one-task {
+    width: 200px;
+    border: 1px solid;
+    padding: 10px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+}
